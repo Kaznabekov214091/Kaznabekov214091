@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kaznabekovsaparbay@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://leetcode.com/kaznabekovsaparbay/)**
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/saparbai-kaznabekov)**
 
 
 </details>
