@@ -39,7 +39,7 @@
 
 </p>
   
-## 📊 Leetcode Stats
+## 📊 Github Stats
 <p align="center"><img src="https://leetcard.jacoblin.cool/kaznabekovsaparbay?theme=forest&font=Italiana></p>
 
 
